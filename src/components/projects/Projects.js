@@ -22,7 +22,7 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="THE FABLE"
-          des="the fable is the number #1 NFT plateform for buying and selling crypto"
+          des="the fable is #1 NFT community on zkSync"
           src={projectOne}
           githubLink="https://github.com/diplovkhatri/zkfable"
           websiteLink="https://thefable.xyz/"

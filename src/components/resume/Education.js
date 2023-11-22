@@ -20,7 +20,7 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Bachelor in Computer Engineering"
-            subTitle="Everest Engineering College (2016 - 2021)"
+            subTitle="Everest Engineering College (2016 - 2022)"
             result="2.61 GPA"
             des="Studied IT related subjects like Operating Systems, DBMS, OOPS, ML, Web Development, AI, DSA, Compiler Design etc."
           />

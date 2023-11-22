@@ -11,13 +11,13 @@ const Experience = () => {
     >
       <div>
         <div className="flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2023 - 20XX</p>
+          <p className="text-sm text-designColor tracking-[4px]">2023</p>
           <h2 className="text-4xl font-bold">Job Experience</h2>
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Lecturer"
-            subTitle="Shree Birethanti Secondary School - (2023 - Present)"
+            subTitle="Shree Birethanti Secondary School"
             result="Nepal"
             des="Provide the knowledge of Engineering Course such as C-Programming and Objecxt Oriented Programming in C++"
           />
@@ -25,7 +25,7 @@ const Experience = () => {
       </div>
       <div>
         <div className="flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2021 - ....</p>
+          <p className="text-sm text-designColor tracking-[4px]">2022</p>
           <h2 className="text-4xl font-bold">Tranning Experience</h2>
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">

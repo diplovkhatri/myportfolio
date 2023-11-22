@@ -9,7 +9,7 @@ const Achievement = () => {
       animate={{ opacity: 1, transition: { duration: 0.5 } }}
       className="py-6 font-titleFont flex flex-col gap-20 md:flex-row"
     >
-      <div className="flex-1">
+      {/* <div className="flex-1">
         <div className="py-6 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">
             2010 - Present
@@ -24,7 +24,7 @@ const Achievement = () => {
             des=".................................................."
           />
         </div>
-      </div>
+      </div> */}
       <div className="flex-1">
         <div className="py-6 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">
